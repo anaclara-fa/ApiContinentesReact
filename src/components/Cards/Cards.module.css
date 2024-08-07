@@ -1,0 +1,11 @@
+.container{
+    height: 40vh;
+    border: solid;
+    border-color: black;
+    width: 20%;
+    margin: 2%;
+    padding: 1%;
+}
+.img{
+    width: 100%;
+}
